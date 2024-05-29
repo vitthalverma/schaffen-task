@@ -11,7 +11,7 @@ class DisplayBottomSheet {
         return Padding(
           padding: EdgeInsets.symmetric(vertical: 1.h, horizontal: 4.w),
           child: SizedBox(
-            height: 22.h,
+            height: 24.h,
             child: Column(
               children: [
                 Row(
